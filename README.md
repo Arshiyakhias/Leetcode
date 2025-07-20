@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/0053-maximum-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Arshiyakhias/Leetcode/tree/master/0009-palindrome-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
