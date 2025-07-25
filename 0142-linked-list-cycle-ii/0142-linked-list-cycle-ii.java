@@ -11,19 +11,18 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        HashMap<ListNode,Integer>map=new HashMap<>();
+        HashSet<ListNode>set=new HashSet<>();
         ListNode curr=head;
-        int index=0;
         while(curr!=null){
-            if(map.containsKey(curr)){
+            if(set.contains(curr)){
                 return curr;
             }
             else{
-                map.put(curr,index);
-                index++;
+                set.add(curr);
+                curr=curr.next;
             }
-            curr=curr.next;
         }
-        return curr;
+        return null;
+        
     }
 }
