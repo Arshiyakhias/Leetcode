@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/Arshiyakhias/Leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
