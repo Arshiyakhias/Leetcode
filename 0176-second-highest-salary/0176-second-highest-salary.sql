@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-
+#the subquery basically will return null if it fails
 select max(salary) as SecondHighestSalary from (
 select distinct salary 
 from Employee
