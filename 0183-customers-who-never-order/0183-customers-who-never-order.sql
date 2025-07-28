@@ -7,4 +7,4 @@ Customers as c
 left join
 Orders as o
 on c.id=o.customerId
-where o.customerId is null
+where o.customerId is null  # always use is null not like this '=null'
