@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1301-reformat-department-table) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arshiyakhias/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1811-fix-names-in-a-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-find-followers-count) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Arshiyakhias/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arshiyakhias/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
