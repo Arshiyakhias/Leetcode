@@ -4,5 +4,5 @@ select a.name as employee ##you are renaming the column tp employee because that
 from Employee as a
 join
 Employee as b
-on a.managerId=b.id
-and a.salary>b.salary
+on a.salary>b.salary
+and a.managerId=b.id
