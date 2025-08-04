@@ -5,4 +5,4 @@ from Employee as a
 join
 Employee as b
 on a.managerId=b.id
-where a.salary>b.salary
+and a.salary>b.salary
