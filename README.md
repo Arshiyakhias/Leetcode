@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arshiyakhias/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Arshiyakhias/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Arshiyakhias/Leetcode/tree/master/0041-first-missing-positive) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arshiyakhias/Leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Arshiyakhias/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arshiyakhias/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Arshiyakhias/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
