@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Arshiyakhias/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Arshiyakhias/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Arshiyakhias/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Arshiyakhias/Leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Arshiyakhias/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0143-reorder-list) |
 | [0342-power-of-four](https://github.com/Arshiyakhias/Leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
