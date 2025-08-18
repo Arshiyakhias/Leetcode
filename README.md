@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arshiyakhias/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Arshiyakhias/Leetcode/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 <!---LeetCode Topics End-->
