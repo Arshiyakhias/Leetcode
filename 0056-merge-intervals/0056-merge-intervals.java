@@ -21,6 +21,6 @@ class Solution {
             }
             
         }
-        return lis.toArray(new int[lis.size()][]);
+        return lis.toArray(new int[lis.size()][2]);
     }
 }
