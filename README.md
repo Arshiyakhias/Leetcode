@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search
 |  |
 | ------- |
