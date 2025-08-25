@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Arshiyakhias/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Arshiyakhias/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
