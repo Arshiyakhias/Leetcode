@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arshiyakhias/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 ## String
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Arshiyakhias/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Geometry
 |  |
 | ------- |
