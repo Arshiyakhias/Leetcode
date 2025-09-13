@@ -8,7 +8,15 @@ class Solution {
         Boolean flag=false;
         String ans=new String();
         for(int i=0;i<s.length();i++){
-            if(s.charAt(i)==')'){
+            
+            if(s.charAt(i)=='(' ){
+                flag=true;
+               
+                
+
+            }
+            
+            else if(s.charAt(i)==')'){
                 if(map.containsKey(find.toString())){
                     String adds=map.get(find.toString());
                     ans=ans+adds;
@@ -22,14 +30,6 @@ class Solution {
                 flag=false;
 
             }
-            else if(s.charAt(i)=='(' ){
-                flag=true;
-               
-                
-
-            }
-            
-            
             else if(flag==true){
                 find.append(s.charAt(i));
             }
