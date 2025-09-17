@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
+| [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Arshiyakhias/Leetcode/tree/master/0443-string-compression) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1526-html-entity-parser](https://github.com/Arshiyakhias/Leetcode/tree/master/1526-html-entity-parser) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshiyakhias/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Arshiyakhias/Leetcode/tree/master/0443-string-compression) |
+| [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
