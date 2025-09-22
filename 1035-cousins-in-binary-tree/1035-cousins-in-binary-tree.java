@@ -45,11 +45,11 @@ class Solution {
             }
             lis.add(addon);
         }
-        int i=0;
+        
 
         for(List<Integer>sing:lis){
-            i++;
-            if(sing.contains(x) && sing.contains(y) && i>2){
+    
+            if(sing.contains(x) && sing.contains(y) ){
                 return true;
             }
         }
