@@ -44,20 +44,14 @@ class Solution {
             }
            fin.add(sum);
         }
-        Collections.sort(fin);
-        List<Long>last=new ArrayList<>();
-        for(int i=fin.size()-1;i>=0;i--){
-            
-                last.add(fin.get(i));
-
-            
-           
-        }
-        if(last.size()<k){
+        Collections.sort(fin,(a,b)->
+        Long.compare(b,a));
+        
+        if(fin.size()<k){
             return -1;
         }
 
-        return last.get(k-1);
+        return fin.get(k-1);
 
     }
 }
