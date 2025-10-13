@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1526-html-entity-parser](https://github.com/Arshiyakhias/Leetcode/tree/master/1526-html-entity-parser) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1526-html-entity-parser](https://github.com/Arshiyakhias/Leetcode/tree/master/1526-html-entity-parser) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arshiyakhias/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
