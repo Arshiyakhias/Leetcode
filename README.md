@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arshiyakhias/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arshiyakhias/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Arshiyakhias/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Arshiyakhias/Leetcode/tree/master/0048-rotate-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arshiyakhias/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
