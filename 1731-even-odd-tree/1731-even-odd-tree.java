@@ -50,12 +50,12 @@ class Solution {
         for(List<Integer>sing:lis){
             for(int i=0;i<sing.size();i++){
                 if(sing.get(i)%2==0 && index%2==0){
-                    System.out.println(sing.get(i)+" "+index);
+                  
                     return false;
                 }
 
                 if(sing.get(i)%2!=0 && index%2!=0){
-                    System.out.println(sing.get(i)+" "+index);
+                 
                     return false;
                 }
                 
