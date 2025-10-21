@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Arshiyakhias/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Arshiyakhias/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Arshiyakhias/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/1254-deepest-leaves-sum) |
