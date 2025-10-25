@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arshiyakhias/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arshiyakhias/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -490,4 +492,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
