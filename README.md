@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Arshiyakhias/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Arshiyakhias/Leetcode/tree/master/3830-find-closest-person) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
