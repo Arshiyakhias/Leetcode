@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Arshiyakhias/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Arshiyakhias/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Arshiyakhias/Leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Arshiyakhias/Leetcode/tree/master/0477-total-hamming-distance) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Arshiyakhias/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Prefix Sum
 |  |
 | ------- |
