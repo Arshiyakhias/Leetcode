@@ -10,7 +10,7 @@ class Solution {
                 int val=(lis.get(i)+lis.get(i+1))%10;
                 lis.set(i,val);
                 
-                //System.out.println(i+" "+val);
+           
             }
             lis.remove(lis.size()-1);
         }
