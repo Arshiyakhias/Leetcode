@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arshiyakhias/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshiyakhias/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Arshiyakhias/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arshiyakhias/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshiyakhias/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Arshiyakhias/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshiyakhias/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Arshiyakhias/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
