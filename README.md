@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Arshiyakhias/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Arshiyakhias/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Arshiyakhias/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshiyakhias/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Arshiyakhias/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
