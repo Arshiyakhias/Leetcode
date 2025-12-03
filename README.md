@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arshiyakhias/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
