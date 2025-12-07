@@ -31,9 +31,7 @@ class Solution {
 
         int l=0;
         int r=2;
-        for(int i=0;i<=2;i++){
-            System.out.println(nums[i]);
-        }
+        
         while(r<nums.length-1){
             l++;
             r++;
