@@ -13,7 +13,7 @@ class Solution {
                 l++;
             }
             if(prod<k){
-             
+               
                 count=count+(r-l+1);
 
             }
