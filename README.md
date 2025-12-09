@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Arshiyakhias/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
