@@ -20,17 +20,12 @@ class Solution {
             if(key1.charAt(index)==' '){
                 index++;
                 map.put(key1.charAt(index),i);
-                System.out.println(key1.charAt(index));
-                System.out.println(i);
-                System.out.println();
+             
                 index++;
             }
-            else if(!map.containsKey(key1.charAt(index))){
-                System.out.println("Hello");
+            else{
                 map.put(key1.charAt(index),i);
-                System.out.println(key1.charAt(index));
-                System.out.println(i);
-                System.out.println();
+               
                 index++;
             }
            
