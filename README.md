@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arshiyakhias/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/Arshiyakhias/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arshiyakhias/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Arshiyakhias/Leetcode/tree/master/0118-pascals-triangle) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arshiyakhias/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
