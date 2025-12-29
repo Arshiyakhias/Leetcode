@@ -1,7 +1,7 @@
 class Solution {
     public long countSubarrays(int[] nums, int k) {
 
-        if (k == 0) return (long) nums.length * (nums.length + 1) / 2;
+
 
         int max=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
