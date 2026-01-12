@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Arshiyakhias/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
