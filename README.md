@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Arshiyakhias/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3271-hash-divided-string) |
 | [3396-valid-word](https://github.com/Arshiyakhias/Leetcode/tree/master/3396-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Arshiyakhias/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
