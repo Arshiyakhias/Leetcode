@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Arshiyakhias/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Arshiyakhias/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/Arshiyakhias/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Arshiyakhias/Leetcode/tree/master/1642-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Arshiyakhias/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
