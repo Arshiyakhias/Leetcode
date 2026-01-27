@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2325-decode-the-message](https://github.com/Arshiyakhias/Leetcode/tree/master/2325-decode-the-message) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3271-hash-divided-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3271-hash-divided-string) |
 | [3396-valid-word](https://github.com/Arshiyakhias/Leetcode/tree/master/3396-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arshiyakhias/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Arshiyakhias/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arshiyakhias/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
 | ------- |
