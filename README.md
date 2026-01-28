@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3271-hash-divided-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
