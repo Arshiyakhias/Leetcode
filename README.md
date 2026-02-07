@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Arshiyakhias/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Arshiyakhias/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arshiyakhias/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Arshiyakhias/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Union Find
 |  |
 | ------- |
