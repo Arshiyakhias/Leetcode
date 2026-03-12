@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0930-binary-subarrays-with-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshiyakhias/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Arshiyakhias/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Arshiyakhias/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshiyakhias/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Arshiyakhias/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Database
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1955-seat-reservation-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1955-seat-reservation-manager) |
