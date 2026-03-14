@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/Arshiyakhias/Leetcode/tree/master/1324-print-words-vertically) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Arshiyakhias/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Arshiyakhias/Leetcode/tree/master/1390-four-divisors) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arshiyakhias/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Arshiyakhias/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Arshiyakhias/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arshiyakhias/Leetcode/tree/master/0011-container-with-most-water) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arshiyakhias/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/Arshiyakhias/Leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search Tree
 |  |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Rolling Hash
