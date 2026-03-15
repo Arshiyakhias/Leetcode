@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arshiyakhias/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshiyakhias/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshiyakhias/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arshiyakhias/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/Arshiyakhias/Leetcode/tree/master/1448-maximum-69-number) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1955-seat-reservation-manager) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Rolling Hash
 |  |
