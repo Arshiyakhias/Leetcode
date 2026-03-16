@@ -14,7 +14,7 @@ class Solution {
         while(pq.size()>=2){
             long x=pq.poll();
             long y=pq.poll();
-            Long ins=(long)x*2+y;
+            Long ins=(long)(Math.min(x,y)*2+Math.max(x,y));
             pq.add(ins);
          
             count++;
