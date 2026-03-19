@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2325-decode-the-message](https://github.com/Arshiyakhias/Leetcode/tree/master/2325-decode-the-message) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Arshiyakhias/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arshiyakhias/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Arshiyakhias/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1955-seat-reservation-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1955-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Arshiyakhias/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1955-seat-reservation-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1955-seat-reservation-manager) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Arshiyakhias/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arshiyakhias/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Arshiyakhias/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
