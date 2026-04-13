@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arshiyakhias/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Arshiyakhias/Leetcode/tree/master/0048-rotate-image) |
+| [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Arshiyakhias/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Arshiyakhias/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -793,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
