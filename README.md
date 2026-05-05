@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/Arshiyakhias/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
