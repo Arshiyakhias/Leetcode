@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Arshiyakhias/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/Arshiyakhias/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Arshiyakhias/Leetcode/tree/master/1642-water-bottles) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arshiyakhias/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Arshiyakhias/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
