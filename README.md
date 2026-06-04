@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Arshiyakhias/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Arshiyakhias/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Arshiyakhias/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3894-traffic-signal-color](https://github.com/Arshiyakhias/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Arshiyakhias/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/Arshiyakhias/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshiyakhias/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Arshiyakhias/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Arshiyakhias/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
