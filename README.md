@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Arshiyakhias/Leetcode/tree/master/0118-pascals-triangle) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arshiyakhias/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Arshiyakhias/Leetcode/tree/master/3830-find-closest-person) |
 | [3894-traffic-signal-color](https://github.com/Arshiyakhias/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arshiyakhias/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bucket Sort
 |  |
 | ------- |
