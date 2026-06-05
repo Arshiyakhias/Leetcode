@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Arshiyakhias/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Arshiyakhias/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshiyakhias/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshiyakhias/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arshiyakhias/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arshiyakhias/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/Arshiyakhias/Leetcode/tree/master/1448-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshiyakhias/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Arshiyakhias/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
