@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arshiyakhias/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2388-replace-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Arshiyakhias/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Arshiyakhias/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arshiyakhias/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Arshiyakhias/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Arshiyakhias/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arshiyakhias/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Arshiyakhias/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshiyakhias/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arshiyakhias/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Arshiyakhias/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Arshiyakhias/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arshiyakhias/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshiyakhias/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Arshiyakhias/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Arshiyakhias/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arshiyakhias/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search Tree
