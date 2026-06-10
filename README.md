@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0930-binary-subarrays-with-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-monotonic-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0932-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Arshiyakhias/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
