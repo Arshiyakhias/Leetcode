@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Arshiyakhias/Leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Arshiyakhias/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Arshiyakhias/Leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Arshiyakhias/Leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshiyakhias/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arshiyakhias/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arshiyakhias/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
