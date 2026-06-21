@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Arshiyakhias/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3063-linked-list-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3063-linked-list-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3063-linked-list-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3063-linked-list-frequency) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Two Pointers
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Arshiyakhias/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3063-linked-list-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3063-linked-list-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
