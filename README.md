@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Arshiyakhias/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -904,4 +906,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 <!---LeetCode Topics End-->
