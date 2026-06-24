@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1731-even-odd-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Arshiyakhias/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arshiyakhias/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Arshiyakhias/Leetcode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Arshiyakhias/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Arshiyakhias/Leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1731-even-odd-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Arshiyakhias/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Arshiyakhias/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
