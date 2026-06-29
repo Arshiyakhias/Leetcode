@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arshiyakhias/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arshiyakhias/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arshiyakhias/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Arshiyakhias/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Arshiyakhias/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Arshiyakhias/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Arshiyakhias/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Arshiyakhias/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Arshiyakhias/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arshiyakhias/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Arshiyakhias/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Arshiyakhias/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Arshiyakhias/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -682,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Arshiyakhias/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Arshiyakhias/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Arshiyakhias/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Arshiyakhias/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
