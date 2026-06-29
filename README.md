@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Arshiyakhias/Leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Depth-First Search
 |  |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Arshiyakhias/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Arshiyakhias/Leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Arshiyakhias/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Arshiyakhias/Leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Arshiyakhias/Leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Search
 |  |
