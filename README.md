@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Arshiyakhias/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arshiyakhias/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-two-out-of-three](https://github.com/Arshiyakhias/Leetcode/tree/master/2032-two-out-of-three) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arshiyakhias/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Arshiyakhias/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
