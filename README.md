@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Arshiyakhias/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Arshiyakhias/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Arshiyakhias/Leetcode/tree/master/0342-power-of-four) |
+| [0369-plus-one-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0369-plus-one-linked-list) |
 | [0371-sum-of-two-integers](https://github.com/Arshiyakhias/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/Arshiyakhias/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arshiyakhias/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0369-plus-one-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
