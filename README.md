@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Arshiyakhias/Leetcode/tree/master/0342-power-of-four) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/Arshiyakhias/Leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arshiyakhias/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/Arshiyakhias/Leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Arshiyakhias/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/Arshiyakhias/Leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Arshiyakhias/Leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Arshiyakhias/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Arshiyakhias/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/Arshiyakhias/Leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Arshiyakhias/Leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
