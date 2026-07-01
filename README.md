@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3062-winner-of-the-linked-list-game](https://github.com/Arshiyakhias/Leetcode/tree/master/3062-winner-of-the-linked-list-game) |
 | [3063-linked-list-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3063-linked-list-frequency) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
