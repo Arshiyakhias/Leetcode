@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Arshiyakhias/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3860-unique-email-groups](https://github.com/Arshiyakhias/Leetcode/tree/master/3860-unique-email-groups) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Arshiyakhias/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/Arshiyakhias/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Arshiyakhias/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Arshiyakhias/Leetcode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
+| [3860-unique-email-groups](https://github.com/Arshiyakhias/Leetcode/tree/master/3860-unique-email-groups) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Arshiyakhias/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Arshiyakhias/Leetcode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
+| [3860-unique-email-groups](https://github.com/Arshiyakhias/Leetcode/tree/master/3860-unique-email-groups) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arshiyakhias/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3894-traffic-signal-color](https://github.com/Arshiyakhias/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
