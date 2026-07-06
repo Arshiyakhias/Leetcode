@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Arshiyakhias/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Arshiyakhias/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1817-finding-the-users-active-minutes](https://github.com/Arshiyakhias/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-html-entity-parser](https://github.com/Arshiyakhias/Leetcode/tree/master/1526-html-entity-parser) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Arshiyakhias/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1817-finding-the-users-active-minutes](https://github.com/Arshiyakhias/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
