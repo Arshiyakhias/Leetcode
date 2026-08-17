@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Arshiyakhias/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Arshiyakhias/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1762-buildings-with-an-ocean-view](https://github.com/Arshiyakhias/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1817-finding-the-users-active-minutes](https://github.com/Arshiyakhias/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arshiyakhias/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/Arshiyakhias/Leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [1762-buildings-with-an-ocean-view](https://github.com/Arshiyakhias/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Arshiyakhias/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1762-buildings-with-an-ocean-view](https://github.com/Arshiyakhias/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Arshiyakhias/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
