@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1301-reformat-department-table) |
+| [1350-students-with-invalid-departments](https://github.com/Arshiyakhias/Leetcode/tree/master/1350-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arshiyakhias/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Arshiyakhias/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Arshiyakhias/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
