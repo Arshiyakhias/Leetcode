@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Arshiyakhias/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Arshiyakhias/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/Arshiyakhias/Leetcode/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/Arshiyakhias/Leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Arshiyakhias/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arshiyakhias/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Arshiyakhias/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
