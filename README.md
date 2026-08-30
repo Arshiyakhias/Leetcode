@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Arshiyakhias/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/Arshiyakhias/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/Arshiyakhias/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0807-custom-sort-string) |
+| [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Arshiyakhias/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arshiyakhias/Leetcode/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/Arshiyakhias/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arshiyakhias/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Arshiyakhias/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arshiyakhias/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
 | [0767-reorganize-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arshiyakhias/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Arshiyakhias/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -955,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/Arshiyakhias/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
