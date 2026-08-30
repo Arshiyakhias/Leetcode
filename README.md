@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Arshiyakhias/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1052-grumpy-bookstore-owner](https://github.com/Arshiyakhias/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/Arshiyakhias/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/Arshiyakhias/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
