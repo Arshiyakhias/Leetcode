@@ -1,8 +1,6 @@
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-        if(s.length==0){
-            return 0;
-        }
+        
         PriorityQueue<Integer>greed=new PriorityQueue<>(Collections.reverseOrder());
         PriorityQueue<Integer>size=new PriorityQueue<>(Collections.reverseOrder());
         for(int i=0;i<g.length;i++){
