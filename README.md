@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arshiyakhias/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/0229-majority-element-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Arshiyakhias/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Arshiyakhias/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Arshiyakhias/Leetcode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Arshiyakhias/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Arshiyakhias/Leetcode/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Arshiyakhias/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0643-maximum-average-subarray-i) |
