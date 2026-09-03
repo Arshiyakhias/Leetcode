@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Arshiyakhias/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-two-out-of-three](https://github.com/Arshiyakhias/Leetcode/tree/master/2032-two-out-of-three) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arshiyakhias/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2090-k-radius-subarray-averages](https://github.com/Arshiyakhias/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Arshiyakhias/Leetcode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Arshiyakhias/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1852-distinct-numbers-in-each-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Arshiyakhias/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2090-k-radius-subarray-averages](https://github.com/Arshiyakhias/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/Arshiyakhias/Leetcode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
