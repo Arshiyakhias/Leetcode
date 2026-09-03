@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Arshiyakhias/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/Arshiyakhias/Leetcode/tree/master/1054-distant-barcodes) |
 | [1127-last-stone-weight](https://github.com/Arshiyakhias/Leetcode/tree/master/1127-last-stone-weight) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/Arshiyakhias/Leetcode/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/Arshiyakhias/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arshiyakhias/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Arshiyakhias/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/Arshiyakhias/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/Arshiyakhias/Leetcode/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Arshiyakhias/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arshiyakhias/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
