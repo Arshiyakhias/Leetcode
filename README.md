@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/Arshiyakhias/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Arshiyakhias/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2906-construct-product-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arshiyakhias/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2743-count-substrings-without-repeating-character](https://github.com/Arshiyakhias/Leetcode/tree/master/2743-count-substrings-without-repeating-character) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3063-linked-list-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3063-linked-list-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arshiyakhias/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2743-count-substrings-without-repeating-character](https://github.com/Arshiyakhias/Leetcode/tree/master/2743-count-substrings-without-repeating-character) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Arshiyakhias/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arshiyakhias/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
