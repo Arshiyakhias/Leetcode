@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Arshiyakhias/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/Arshiyakhias/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Arshiyakhias/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Arshiyakhias/Leetcode/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshiyakhias/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Arshiyakhias/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Arshiyakhias/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -1061,4 +1063,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Arshiyakhias/Leetcode/tree/master/0455-assign-cookies) |
+## Interactive
+|  |
+| ------- |
+| [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Arshiyakhias/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 <!---LeetCode Topics End-->
