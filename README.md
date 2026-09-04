@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3330-modify-the-matrix](https://github.com/Arshiyakhias/Leetcode/tree/master/3330-modify-the-matrix) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arshiyakhias/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Arshiyakhias/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Arshiyakhias/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
