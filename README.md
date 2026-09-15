@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1506-find-root-of-n-ary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arshiyakhias/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Arshiyakhias/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arshiyakhias/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/1731-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arshiyakhias/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Arshiyakhias/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/Arshiyakhias/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Arshiyakhias/Leetcode/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -1047,10 +1049,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Arshiyakhias/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Arshiyakhias/Leetcode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arshiyakhias/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Arshiyakhias/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Arshiyakhias/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Arshiyakhias/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
