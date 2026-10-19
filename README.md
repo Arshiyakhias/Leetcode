@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arshiyakhias/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arshiyakhias/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Arshiyakhias/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Arshiyakhias/Leetcode/tree/master/0278-first-bad-version) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Arshiyakhias/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0713-subarray-product-less-than-k](https://github.com/Arshiyakhias/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Arshiyakhias/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -1076,5 +1077,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Arshiyakhias/Leetcode/tree/master/0278-first-bad-version) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/Arshiyakhias/Leetcode/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 <!---LeetCode Topics End-->
