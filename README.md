@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2325-decode-the-message](https://github.com/Arshiyakhias/Leetcode/tree/master/2325-decode-the-message) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arshiyakhias/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Arshiyakhias/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arshiyakhias/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2743-count-substrings-without-repeating-character](https://github.com/Arshiyakhias/Leetcode/tree/master/2743-count-substrings-without-repeating-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arshiyakhias/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Arshiyakhias/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Arshiyakhias/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/Arshiyakhias/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Arshiyakhias/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-find-xor-beauty-of-array](https://github.com/Arshiyakhias/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Arshiyakhias/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
