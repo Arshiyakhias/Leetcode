@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arshiyakhias/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2989-class-performance](https://github.com/Arshiyakhias/Leetcode/tree/master/2989-class-performance) |
 | [3204-bitwise-user-permissions-analysis](https://github.com/Arshiyakhias/Leetcode/tree/master/3204-bitwise-user-permissions-analysis) |
+| [3475-dna-pattern-recognition](https://github.com/Arshiyakhias/Leetcode/tree/master/3475-dna-pattern-recognition) |
 | [3782-find-valid-emails](https://github.com/Arshiyakhias/Leetcode/tree/master/3782-find-valid-emails) |
 ## Trie
 |  |
