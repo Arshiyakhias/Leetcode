@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1301-reformat-department-table) |
+| [1303-find-the-team-size](https://github.com/Arshiyakhias/Leetcode/tree/master/1303-find-the-team-size) |
 | [1350-students-with-invalid-departments](https://github.com/Arshiyakhias/Leetcode/tree/master/1350-students-with-invalid-departments) |
 | [1445-apples-oranges](https://github.com/Arshiyakhias/Leetcode/tree/master/1445-apples-oranges) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arshiyakhias/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
