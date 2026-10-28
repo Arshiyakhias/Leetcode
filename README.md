@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/Arshiyakhias/Leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1877-find-followers-count](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-find-followers-count) |
+| [2026-low-quality-problems](https://github.com/Arshiyakhias/Leetcode/tree/master/2026-low-quality-problems) |
 | [2110-employees-with-missing-information](https://github.com/Arshiyakhias/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Arshiyakhias/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arshiyakhias/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
