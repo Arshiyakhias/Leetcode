@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2687-bikes-last-time-used](https://github.com/Arshiyakhias/Leetcode/tree/master/2687-bikes-last-time-used) |
 | [2985-calculate-compressed-mean](https://github.com/Arshiyakhias/Leetcode/tree/master/2985-calculate-compressed-mean) |
 | [2989-class-performance](https://github.com/Arshiyakhias/Leetcode/tree/master/2989-class-performance) |
+| [3198-find-cities-in-each-state](https://github.com/Arshiyakhias/Leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3204-bitwise-user-permissions-analysis](https://github.com/Arshiyakhias/Leetcode/tree/master/3204-bitwise-user-permissions-analysis) |
 | [3358-books-with-null-ratings](https://github.com/Arshiyakhias/Leetcode/tree/master/3358-books-with-null-ratings) |
 | [3475-dna-pattern-recognition](https://github.com/Arshiyakhias/Leetcode/tree/master/3475-dna-pattern-recognition) |
