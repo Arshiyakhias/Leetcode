@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2985-calculate-compressed-mean](https://github.com/Arshiyakhias/Leetcode/tree/master/2985-calculate-compressed-mean) |
 | [2988-manager-of-the-largest-department](https://github.com/Arshiyakhias/Leetcode/tree/master/2988-manager-of-the-largest-department) |
 | [2989-class-performance](https://github.com/Arshiyakhias/Leetcode/tree/master/2989-class-performance) |
+| [3054-binary-tree-nodes](https://github.com/Arshiyakhias/Leetcode/tree/master/3054-binary-tree-nodes) |
 | [3198-find-cities-in-each-state](https://github.com/Arshiyakhias/Leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3204-bitwise-user-permissions-analysis](https://github.com/Arshiyakhias/Leetcode/tree/master/3204-bitwise-user-permissions-analysis) |
 | [3338-second-highest-salary-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3338-second-highest-salary-ii) |
