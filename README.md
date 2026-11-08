@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-find-the-team-size](https://github.com/Arshiyakhias/Leetcode/tree/master/1303-find-the-team-size) |
 | [1308-running-total-for-different-genders](https://github.com/Arshiyakhias/Leetcode/tree/master/1308-running-total-for-different-genders) |
 | [1350-students-with-invalid-departments](https://github.com/Arshiyakhias/Leetcode/tree/master/1350-students-with-invalid-departments) |
+| [1355-activity-participants](https://github.com/Arshiyakhias/Leetcode/tree/master/1355-activity-participants) |
 | [1393-capital-gainloss](https://github.com/Arshiyakhias/Leetcode/tree/master/1393-capital-gainloss) |
 | [1421-npv-queries](https://github.com/Arshiyakhias/Leetcode/tree/master/1421-npv-queries) |
 | [1445-apples-oranges](https://github.com/Arshiyakhias/Leetcode/tree/master/1445-apples-oranges) |
