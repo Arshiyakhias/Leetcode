@@ -884,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2082-the-number-of-rich-customers](https://github.com/Arshiyakhias/Leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2110-employees-with-missing-information](https://github.com/Arshiyakhias/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Arshiyakhias/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2314-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/Arshiyakhias/Leetcode/tree/master/2314-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/Arshiyakhias/Leetcode/tree/master/2372-calculate-the-influence-of-each-salesperson) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arshiyakhias/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Arshiyakhias/Leetcode/tree/master/2504-concatenate-the-name-and-the-profession) |
