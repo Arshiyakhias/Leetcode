@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-invalid-tweets-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3150-invalid-tweets-ii) |
 | [3198-find-cities-in-each-state](https://github.com/Arshiyakhias/Leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3204-bitwise-user-permissions-analysis](https://github.com/Arshiyakhias/Leetcode/tree/master/3204-bitwise-user-permissions-analysis) |
+| [3246-premier-league-table-ranking](https://github.com/Arshiyakhias/Leetcode/tree/master/3246-premier-league-table-ranking) |
 | [3338-second-highest-salary-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3338-second-highest-salary-ii) |
 | [3358-books-with-null-ratings](https://github.com/Arshiyakhias/Leetcode/tree/master/3358-books-with-null-ratings) |
 | [3475-dna-pattern-recognition](https://github.com/Arshiyakhias/Leetcode/tree/master/3475-dna-pattern-recognition) |
