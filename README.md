@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Arshiyakhias/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1258-article-views-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1258-article-views-i) |
+| [1264-page-recommendations](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-page-recommendations) |
 | [1301-reformat-department-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1301-reformat-department-table) |
 | [1303-find-the-team-size](https://github.com/Arshiyakhias/Leetcode/tree/master/1303-find-the-team-size) |
 | [1308-running-total-for-different-genders](https://github.com/Arshiyakhias/Leetcode/tree/master/1308-running-total-for-different-genders) |
