@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/Arshiyakhias/Leetcode/tree/master/1907-count-salary-categories) |
 | [2026-low-quality-problems](https://github.com/Arshiyakhias/Leetcode/tree/master/2026-low-quality-problems) |
 | [2041-accepted-candidates-from-the-interviews](https://github.com/Arshiyakhias/Leetcode/tree/master/2041-accepted-candidates-from-the-interviews) |
+| [2066-account-balance](https://github.com/Arshiyakhias/Leetcode/tree/master/2066-account-balance) |
 | [2082-the-number-of-rich-customers](https://github.com/Arshiyakhias/Leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2110-employees-with-missing-information](https://github.com/Arshiyakhias/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Arshiyakhias/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
