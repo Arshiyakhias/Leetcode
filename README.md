@@ -883,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arshiyakhias/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1549-the-most-recent-orders-for-each-product](https://github.com/Arshiyakhias/Leetcode/tree/master/1549-the-most-recent-orders-for-each-product) |
 | [1571-warehouse-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1571-warehouse-manager) |
+| [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/Arshiyakhias/Leetcode/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
 | [1607-sellers-with-no-sales](https://github.com/Arshiyakhias/Leetcode/tree/master/1607-sellers-with-no-sales) |
 | [1625-group-sold-products-by-the-date](https://github.com/Arshiyakhias/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Arshiyakhias/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
