@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/Arshiyakhias/Leetcode/tree/master/2372-calculate-the-influence-of-each-salesperson) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arshiyakhias/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Arshiyakhias/Leetcode/tree/master/2504-concatenate-the-name-and-the-profession) |
+| [2668-find-latest-salaries](https://github.com/Arshiyakhias/Leetcode/tree/master/2668-find-latest-salaries) |
 | [2687-bikes-last-time-used](https://github.com/Arshiyakhias/Leetcode/tree/master/2687-bikes-last-time-used) |
 | [2985-calculate-compressed-mean](https://github.com/Arshiyakhias/Leetcode/tree/master/2985-calculate-compressed-mean) |
 | [2988-manager-of-the-largest-department](https://github.com/Arshiyakhias/Leetcode/tree/master/2988-manager-of-the-largest-department) |
