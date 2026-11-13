@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-product-sales-analysis-v](https://github.com/Arshiyakhias/Leetcode/tree/master/2329-product-sales-analysis-v) |
 | [2339-all-the-matches-of-the-league](https://github.com/Arshiyakhias/Leetcode/tree/master/2339-all-the-matches-of-the-league) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/Arshiyakhias/Leetcode/tree/master/2372-calculate-the-influence-of-each-salesperson) |
+| [2480-form-a-chemical-bond](https://github.com/Arshiyakhias/Leetcode/tree/master/2480-form-a-chemical-bond) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arshiyakhias/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Arshiyakhias/Leetcode/tree/master/2504-concatenate-the-name-and-the-profession) |
 | [2668-find-latest-salaries](https://github.com/Arshiyakhias/Leetcode/tree/master/2668-find-latest-salaries) |
