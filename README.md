@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/Arshiyakhias/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Arshiyakhias/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2159-order-two-columns-independently](https://github.com/Arshiyakhias/Leetcode/tree/master/2159-order-two-columns-independently) |
+| [2298-tasks-count-in-the-weekend](https://github.com/Arshiyakhias/Leetcode/tree/master/2298-tasks-count-in-the-weekend) |
 | [2314-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/Arshiyakhias/Leetcode/tree/master/2314-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2324-product-sales-analysis-iv](https://github.com/Arshiyakhias/Leetcode/tree/master/2324-product-sales-analysis-iv) |
 | [2329-product-sales-analysis-v](https://github.com/Arshiyakhias/Leetcode/tree/master/2329-product-sales-analysis-v) |
