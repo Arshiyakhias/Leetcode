@@ -882,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-apples-oranges](https://github.com/Arshiyakhias/Leetcode/tree/master/1445-apples-oranges) |
 | [1468-calculate-salaries](https://github.com/Arshiyakhias/Leetcode/tree/master/1468-calculate-salaries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arshiyakhias/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1532-the-most-recent-three-orders](https://github.com/Arshiyakhias/Leetcode/tree/master/1532-the-most-recent-three-orders) |
 | [1549-the-most-recent-orders-for-each-product](https://github.com/Arshiyakhias/Leetcode/tree/master/1549-the-most-recent-orders-for-each-product) |
 | [1571-warehouse-manager](https://github.com/Arshiyakhias/Leetcode/tree/master/1571-warehouse-manager) |
 | [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/Arshiyakhias/Leetcode/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
