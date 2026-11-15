@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Arshiyakhias/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Arshiyakhias/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Arshiyakhias/Leetcode/tree/master/0627-swap-salary) |
+| [1045-customers-who-bought-all-products](https://github.com/Arshiyakhias/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1077-project-employees-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/1077-project-employees-iii) |
 | [1112-highest-grade-for-each-student](https://github.com/Arshiyakhias/Leetcode/tree/master/1112-highest-grade-for-each-student) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Arshiyakhias/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
