@@ -900,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1875-group-employees-of-the-same-salary](https://github.com/Arshiyakhias/Leetcode/tree/master/1875-group-employees-of-the-same-salary) |
 | [1877-find-followers-count](https://github.com/Arshiyakhias/Leetcode/tree/master/1877-find-followers-count) |
 | [1907-count-salary-categories](https://github.com/Arshiyakhias/Leetcode/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/Arshiyakhias/Leetcode/tree/master/1934-confirmation-rate) |
 | [2026-low-quality-problems](https://github.com/Arshiyakhias/Leetcode/tree/master/2026-low-quality-problems) |
 | [2041-accepted-candidates-from-the-interviews](https://github.com/Arshiyakhias/Leetcode/tree/master/2041-accepted-candidates-from-the-interviews) |
 | [2066-account-balance](https://github.com/Arshiyakhias/Leetcode/tree/master/2066-account-balance) |
