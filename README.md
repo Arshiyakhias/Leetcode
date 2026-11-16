@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Arshiyakhias/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1258-article-views-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1258-article-views-i) |
 | [1264-page-recommendations](https://github.com/Arshiyakhias/Leetcode/tree/master/1264-page-recommendations) |
