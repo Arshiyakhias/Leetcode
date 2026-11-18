@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-npv-queries](https://github.com/Arshiyakhias/Leetcode/tree/master/1421-npv-queries) |
 | [1445-apples-oranges](https://github.com/Arshiyakhias/Leetcode/tree/master/1445-apples-oranges) |
 | [1468-calculate-salaries](https://github.com/Arshiyakhias/Leetcode/tree/master/1468-calculate-salaries) |
+| [1501-countries-you-can-safely-invest-in](https://github.com/Arshiyakhias/Leetcode/tree/master/1501-countries-you-can-safely-invest-in) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Arshiyakhias/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1532-the-most-recent-three-orders](https://github.com/Arshiyakhias/Leetcode/tree/master/1532-the-most-recent-three-orders) |
 | [1549-the-most-recent-orders-for-each-product](https://github.com/Arshiyakhias/Leetcode/tree/master/1549-the-most-recent-orders-for-each-product) |
