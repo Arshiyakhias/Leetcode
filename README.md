@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Arshiyakhias/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Arshiyakhias/Leetcode/tree/master/0627-swap-salary) |
 | [1045-customers-who-bought-all-products](https://github.com/Arshiyakhias/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1069-product-sales-analysis-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/1069-product-sales-analysis-ii) |
 | [1077-project-employees-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/1077-project-employees-iii) |
 | [1112-highest-grade-for-each-student](https://github.com/Arshiyakhias/Leetcode/tree/master/1112-highest-grade-for-each-student) |
 | [1126-active-businesses](https://github.com/Arshiyakhias/Leetcode/tree/master/1126-active-businesses) |
