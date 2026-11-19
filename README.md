@@ -927,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-find-latest-salaries](https://github.com/Arshiyakhias/Leetcode/tree/master/2668-find-latest-salaries) |
 | [2686-immediate-food-delivery-iii](https://github.com/Arshiyakhias/Leetcode/tree/master/2686-immediate-food-delivery-iii) |
 | [2687-bikes-last-time-used](https://github.com/Arshiyakhias/Leetcode/tree/master/2687-bikes-last-time-used) |
+| [2837-total-traveled-distance](https://github.com/Arshiyakhias/Leetcode/tree/master/2837-total-traveled-distance) |
 | [2985-calculate-compressed-mean](https://github.com/Arshiyakhias/Leetcode/tree/master/2985-calculate-compressed-mean) |
 | [2988-manager-of-the-largest-department](https://github.com/Arshiyakhias/Leetcode/tree/master/2988-manager-of-the-largest-department) |
 | [2989-class-performance](https://github.com/Arshiyakhias/Leetcode/tree/master/2989-class-performance) |
