@@ -912,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2066-account-balance](https://github.com/Arshiyakhias/Leetcode/tree/master/2066-account-balance) |
 | [2082-the-number-of-rich-customers](https://github.com/Arshiyakhias/Leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2110-employees-with-missing-information](https://github.com/Arshiyakhias/Leetcode/tree/master/2110-employees-with-missing-information) |
+| [2112-the-airport-with-the-most-traffic](https://github.com/Arshiyakhias/Leetcode/tree/master/2112-the-airport-with-the-most-traffic) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Arshiyakhias/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2159-order-two-columns-independently](https://github.com/Arshiyakhias/Leetcode/tree/master/2159-order-two-columns-independently) |
 | [2238-number-of-times-a-driver-was-a-passenger](https://github.com/Arshiyakhias/Leetcode/tree/master/2238-number-of-times-a-driver-was-a-passenger) |
