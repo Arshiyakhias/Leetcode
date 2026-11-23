@@ -900,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1607-sellers-with-no-sales](https://github.com/Arshiyakhias/Leetcode/tree/master/1607-sellers-with-no-sales) |
 | [1625-group-sold-products-by-the-date](https://github.com/Arshiyakhias/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Arshiyakhias/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1699-number-of-calls-between-two-persons](https://github.com/Arshiyakhias/Leetcode/tree/master/1699-number-of-calls-between-two-persons) |
 | [1715-count-apples-and-oranges](https://github.com/Arshiyakhias/Leetcode/tree/master/1715-count-apples-and-oranges) |
 | [1811-fix-names-in-a-table](https://github.com/Arshiyakhias/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/Arshiyakhias/Leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
