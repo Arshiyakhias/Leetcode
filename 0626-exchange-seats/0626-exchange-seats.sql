@@ -7,8 +7,8 @@ with cte_a as(
     from Seat
 ),
 cte_b as(
-    select student, case when rn%2=0 then id-1
-     WHEN rn = (SELECT COUNT(*) FROM Seat) THEN id
+    select student, case when id%2=0 then id-1
+     WHEN id = (SELECT COUNT(*) FROM Seat) THEN id
     else id+1
     end as `id`
     from cte_a
