@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-second-highest-salary-ii](https://github.com/Arshiyakhias/Leetcode/tree/master/3338-second-highest-salary-ii) |
 | [3358-books-with-null-ratings](https://github.com/Arshiyakhias/Leetcode/tree/master/3358-books-with-null-ratings) |
 | [3475-dna-pattern-recognition](https://github.com/Arshiyakhias/Leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3564-seasonal-sales-analysis](https://github.com/Arshiyakhias/Leetcode/tree/master/3564-seasonal-sales-analysis) |
 | [3782-find-valid-emails](https://github.com/Arshiyakhias/Leetcode/tree/master/3782-find-valid-emails) |
 ## Trie
 |  |
