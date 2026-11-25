@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1158-market-analysis-i) |
 | [1161-project-employees-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1161-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Arshiyakhias/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1173-immediate-food-delivery-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1179-game-play-analysis-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/Arshiyakhias/Leetcode/tree/master/1193-monthly-transactions-i) |
